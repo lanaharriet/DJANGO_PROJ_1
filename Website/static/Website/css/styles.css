@@ -1,0 +1,19 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.background {
+   background-image: url("/static/Website/css/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.card {
+    background-color: rgba(34, 125, 34, 0.95);
+    border-radius: 10px;
+}
